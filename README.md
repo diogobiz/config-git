@@ -2,7 +2,7 @@
 ####Configuration multiple credentials 
 ---
 
-Generation keys
+###### Generation keys
 `ssh-keygen -o -a 100 -t ed25519 -f ~/.ssh/id_ed25519_diogo_gmail -C 'diogo@gmail.com'`
 
 `ssh-keygen -o -a 100 -t ed25519 -f ~/.ssh/id_ed25519_diogobiz_hotmail -C 'diogobiz@hotmail.com'`
